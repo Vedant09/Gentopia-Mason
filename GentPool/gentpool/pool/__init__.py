@@ -11,3 +11,4 @@ from .vanilla-ziyu import *
 from .scholar-ziyu import *
 from .Frazer import *
 from .Dimarcox import *
+from .New_agent import *
